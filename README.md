@@ -19,10 +19,11 @@ STEP 4: Save the Clean data to the file
 STEP 5: Remove outliers using IQR
 
 STEP 6: Use zscore of to remove outliers
-<img width="1197" height="566" alt="Screenshot 2025-12-01 094514" src="https://github.com/user-attachments/assets/fb6e288d-29de-4756-87c3-e76300b53bdf" />
-<img wid<img width="1045" height="684" alt="Screenshot 2025-12-01 094556" src="https://github.com/user-attachments/assets/c75551e1-ca9d-4c4a-9921-d541335f3aab" />
-th="842" height="496" alt="Screenshot 2025-12-01 094543" src="https://github.com/user-attachments/assets/00e0cfe9-1abd-471d-9ca7-e6bf3ce2ecd9" />
-<img width="688" height="496" alt="Screenshot 2025-12-01 094606" src="https://github.com/user-attachments/assets/8e50cf86-1174-42b9-9aef-6d9196921ded" />
+<img width="1197" height="566" alt="Screenshot 2025-12-01 094514" src="https://github.com/user-attachments/assets/d69a64fe-dfd9-4502-8370-0ac03b6b12ca" />
+<img width="842" height="496" alt="Screenshot 2025-12-01 094543" src="https://github.com/user-attachments/assets/76f9c552-6448-4fd2-b98d-f1d3e40e293e" />
+<img width="1045" height="684" alt="Screenshot 2025-12-01 094556" src="https://github.com/user-attachments/assets/28735f45-21b5-4351-b54c-f5563f06cdd0" />
+<img width="688" height="496" alt="Screenshot 2025-12-01 094606" src="https://github.com/user-attachments/assets/c40fa8ab-ee48-4c05-ac7d-9843924bf2bf" />
+
 # Coding and Output
             <<include your coding and its corressponding output screen shots here>>
 # Result
